@@ -20,7 +20,7 @@ images for results
 
 
 
-Second, steps in google colab
+Second, steps in Google Colab
 
 1- In google colab, I uploaded keras model files that I downloaded from Teachable Machine site and uploaded an image of moon
 to predict its class
@@ -30,6 +30,13 @@ to predict its class
  2- I wrote the copied Python code from Teachable Machine for this model 
  3- I wrote this command to prevent error
  ![image alt](https://github.com/Sa12345678434/artificial-intelligence-task1/blob/main/pip.png?raw=true)
- 4- 
+
+ 4-In the line below, I put the name of the image in designated place,which I had previously uploaded to Google Colab
+ image = Image.open("moon t.jpg").convert("RGB")
+
+5- I run code then it predict the image is moon 
+
+output
+
 
 
