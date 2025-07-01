@@ -1,4 +1,5 @@
 # artificial-intelligence-task1
+
 Training image recognition model 
 
 First, steps in Teachable Machine
@@ -15,4 +16,14 @@ correct result.
 images for results 
 ![image alt](https://github.com/Sa12345678434/artificial-intelligence-task1/blob/main/moon.png?raw=true)
 ![image alt](https://github.com/Sa12345678434/artificial-intelligence-task1/blob/main/sun.png?raw=true)
+
+
+
+Second, steps in google colab
+
+1- In google colab, I uploaded keras model files that I downloaded from Teachable Machine site and uploaded an image of moon
+to predict its class
+
+image for files 
+
 
