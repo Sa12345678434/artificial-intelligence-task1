@@ -4,7 +4,7 @@ Training image recognition model
 
 First, steps in Teachable Machine
 
-1- I opened Teachable Machine website then I chose image project,I defined 2 classes (sun,moon). 
+1- I opened Teachable Machine website then chose image project,I defined 2 classes (sun,moon). 
 2- In sun class I uploaded several images of sun from my computer, I did the same thing with the moon class.
 3- I clicked on train model.
 4- after training I upladed  image of moon from my computer to test model and the result showed that it was indeed a moon 100%.
