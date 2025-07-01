@@ -36,11 +36,13 @@ to predict its class
 
  4-In the line below, I put the path of the image in designated place,which I had previously uploaded to Google Colab
  
- image = Image.open("moon t.jpg").convert("RGB")
+      image = Image.open("moon t.jpg").convert("RGB")
 
 5- I run code then Python predict the class of the image is moon 
 
+
 output
+
 ![image alt](https://github.com/Sa12345678434/artificial-intelligence-task1/blob/main/output%20moon.png?raw=true)
 
 
