@@ -35,6 +35,7 @@ to predict its class
 
 
  4-In the line below, I put the path of the image in designated place,which I had previously uploaded to Google Colab
+ 
  image = Image.open("moon t.jpg").convert("RGB")
 
 5- I run code then Python predict the class of the image is moon 
