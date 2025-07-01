@@ -14,5 +14,5 @@ correct result.
 
 images for results 
 ![image alt](https://github.com/Sa12345678434/artificial-intelligence-task1/blob/main/moon.png?raw=true)
-
+![image alt](https://github.com/Sa12345678434/artificial-intelligence-task1/blob/main/sun.png?raw=true)
 
