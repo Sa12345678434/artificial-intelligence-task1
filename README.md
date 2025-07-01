@@ -25,6 +25,10 @@ Second, steps in google colab
 1- In google colab, I uploaded keras model files that I downloaded from Teachable Machine site and uploaded an image of moon
 to predict its class
 
- ![image alt]
+ ![image alt](https://github.com/Sa12345678434/artificial-intelligence-task1/blob/main/files2.png?raw=true)
+
+ 2- I wrote the copied Python code from Teachable Machine for this model 
+ 3- I wrote this command to prevent error
+ 
 
 
