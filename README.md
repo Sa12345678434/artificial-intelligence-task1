@@ -37,6 +37,6 @@ to predict its class
 5- I run code then it predict the image is moon 
 
 output
-
+![image alt](https://github.com/Sa12345678434/artificial-intelligence-task1/blob/main/output%20moon.png?raw=true)
 
 
